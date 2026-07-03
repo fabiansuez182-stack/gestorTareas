@@ -2,7 +2,7 @@
 
 Aplicación web progresiva (PWA) para la gestión eficiente de tareas con trazabilidad de tiempo, autenticación segura, almacenamiento de archivos en la nube y generación de reportes de productividad.
 
-**Proyecto formativo SENA ADSO — Ficha 2026**  
+**Proyecto formativo SENA ADSO — Ficha 3292136**  
 Instructor: Edwin Rozo
 
 ---
@@ -287,4 +287,4 @@ Todos deben pasar sin errores antes de cada commit.
 
 ## 📄 Licencia
 
-Proyecto académico — SENA ADSO Ficha 2026.
+Proyecto académico — SENA ADSO Ficha 3292136.
